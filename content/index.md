@@ -3,7 +3,7 @@ title: PixelBend
 tags:
   - Home
 created: 2024-12-16T17:46
-updated: 2025-02-27T07:31
+updated: 2025-03-01T18:16
 ---
 ---
 
@@ -31,7 +31,7 @@ Whether you're a fellow creator, a lifelong learner, or just here to explore, th
 
 ## Join the PixelBend Community 🤝
 
-The heart of PixelBend lies in its community. Let’s connect, share, and learn together! Feel free to reach out, join the conversation, and contribute your own insights. You can find us on [GitHub](https://github.com/pixelbend/pixelbend-blog) or chat with me on [Discord](https://discord.gg/zG2CbDUw4e). Together, let’s push the boundaries of what we can learn and create.
+The heart of PixelBend lies in its community. Let’s connect, share, and learn together! Feel free to reach out, join the conversation, and contribute your own insights. You can find me on [GitHub](https://github.com/pixelbend/pixelbend-blog) or chat with me on [Discord](https://discord.gg/zG2CbDUw4e). Together, let’s push the boundaries of what we can learn and create.
 
 ---
 

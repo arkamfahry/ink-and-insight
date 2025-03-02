@@ -6,7 +6,7 @@ tags:
   - Post
 draft: false
 created: 2025-02-08T11:03
-updated: 2025-03-01T15:31
+updated: 2025-03-02T06:31
 ---
 Let's talk about studying some hate it some like it but most of us feel like studying is hard. What do we do when something feels hard we start procrastinating and wasting time rather trying to find the root of the problem?
 
