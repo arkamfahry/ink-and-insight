@@ -6,9 +6,9 @@ tags:
   - Note
 draft: false
 created: 2025-03-02T10:55
-updated: 2025-03-02T11:30
+updated: 2025-03-02T11:37
 ---
-# Databases
+## Databases
 ---
 - [PostgreSQL](https://www.postgresql.org/)
 - [YugabyteDB](https://www.yugabyte.com/)
