@@ -1,12 +1,12 @@
 ---
-title: How to study so fast it feels like life is on easy mode
+title: How to Study So Fast It Feels Like Life’s on Easy Mode
 description: 
 aliases: 
 tags:
   - Post
 draft: false
 created: 2025-02-08T11:03
-updated: 2025-03-02T06:31
+updated: 2025-03-02T12:04
 ---
 Let's talk about studying some hate it some like it but most of us feel like studying is hard. What do we do when something feels hard we start procrastinating and wasting time rather trying to find the root of the problem?
 

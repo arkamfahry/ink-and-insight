@@ -1,11 +1,10 @@
 ---
-title: Transaction isolation levels and why we should care
+title: Transaction Isolation Levels and Why We Should Care
 description: 
 aliases: 
 tags:
   - Post
 draft: true
 created: 2025-02-27T17:00
-updated: 2025-03-02T07:13
+updated: 2025-03-02T12:05
 ---
-We should care about transaction isolation levels. Have you ever thought yep
