@@ -6,10 +6,12 @@ tags:
   - Note
 draft: false
 created: 2025-03-03T05:13
-updated: 2025-03-04T12:26
+updated: 2025-03-22T11:06
 ---
 
-- [PostgreSQL](https://www.postgresql.org) 
+# Database
+---
+- [PostgreSQL](https://www.postgresql.org)
 - [Neon](https://www.neon.tech) 
 - [Xata](https://www.xata.io)
 - [YugabyteDB](https://www.yugabyte.com)
@@ -20,3 +22,8 @@ updated: 2025-03-04T12:26
 - [Apache Kvrocks](https://kvrocks.apache.org)
 - [Valkey](https://valkey.io)
 - [NATS](https://nats.io)
+
+# TypeScript
+---
+- [Effect](https://effect.website)
+- [Neverthrow](https://github.com/supermacro/neverthrow)
