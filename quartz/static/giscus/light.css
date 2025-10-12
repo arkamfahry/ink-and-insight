@@ -1,89 +1,90 @@
 /*! MIT License
  * Copyright (c) 2018 GitHub Inc.
  * https://github.com/primer/primitives/blob/main/LICENSE
+ * Modified with Atom One Light Theme
  */
 
 main {
-  --color-prettylights-syntax-comment: #6e7781;
-  --color-prettylights-syntax-constant: #0550ae;
-  --color-prettylights-syntax-entity: #8250df;
-  --color-prettylights-syntax-storage-modifier-import: #24292f;
-  --color-prettylights-syntax-entity-tag: #116329;
-  --color-prettylights-syntax-keyword: #cf222e;
-  --color-prettylights-syntax-string: #0a3069;
-  --color-prettylights-syntax-variable: #953800;
-  --color-prettylights-syntax-brackethighlighter-unmatched: #82071e;
-  --color-prettylights-syntax-invalid-illegal-text: #f6f8fa;
-  --color-prettylights-syntax-invalid-illegal-bg: #82071e;
-  --color-prettylights-syntax-carriage-return-text: #f6f8fa;
-  --color-prettylights-syntax-carriage-return-bg: #cf222e;
-  --color-prettylights-syntax-string-regexp: #116329;
-  --color-prettylights-syntax-markup-list: #3b2300;
-  --color-prettylights-syntax-markup-heading: #0550ae;
-  --color-prettylights-syntax-markup-italic: #24292f;
-  --color-prettylights-syntax-markup-bold: #24292f;
-  --color-prettylights-syntax-markup-deleted-text: #82071e;
-  --color-prettylights-syntax-markup-deleted-bg: #ffebe9;
-  --color-prettylights-syntax-markup-inserted-text: #116329;
-  --color-prettylights-syntax-markup-inserted-bg: #dafbe1;
-  --color-prettylights-syntax-markup-changed-text: #953800;
-  --color-prettylights-syntax-markup-changed-bg: #ffd8b5;
-  --color-prettylights-syntax-markup-ignored-text: #eaeef2;
-  --color-prettylights-syntax-markup-ignored-bg: #0550ae;
-  --color-prettylights-syntax-meta-diff-range: #8250df;
-  --color-prettylights-syntax-brackethighlighter-angle: #57606a;
-  --color-prettylights-syntax-sublimelinter-gutter-mark: #8c959f;
-  --color-prettylights-syntax-constant-other-reference-link: #0a3069;
-  --color-btn-text: #4e4e4e; /* --darkgray */
-  --color-btn-bg: #faf8f8; /* --light */
-  --color-btn-border: rgb(43, 43, 43 / 15%); /* --dark */
-  --color-btn-shadow: 0 1px 0 rgb(31 35 40 / 4%);
-  --color-btn-inset-shadow: inset 0 1px 0 rgb(255 255 255 / 25%);
-  --color-btn-hover-bg: #f3f4f6;
-  --color-btn-hover-border: rgb(43, 43, 43 / 15%); /* --dark */
-  --color-btn-active-bg: hsl(220deg 14% 93% / 100%);
-  --color-btn-active-border: rgb(31 35 40 / 15%);
-  --color-btn-selected-bg: hsl(220deg 14% 94% / 100%);
+  --color-prettylights-syntax-comment: #a0a1a7;
+  --color-prettylights-syntax-constant: #0184bc;
+  --color-prettylights-syntax-entity: #a626a4;
+  --color-prettylights-syntax-storage-modifier-import: #383a42;
+  --color-prettylights-syntax-entity-tag: #50a14f;
+  --color-prettylights-syntax-keyword: #e45649;
+  --color-prettylights-syntax-string: #50a14f;
+  --color-prettylights-syntax-variable: #986801;
+  --color-prettylights-syntax-brackethighlighter-unmatched: #e45649;
+  --color-prettylights-syntax-invalid-illegal-text: #fafafa;
+  --color-prettylights-syntax-invalid-illegal-bg: #e45649;
+  --color-prettylights-syntax-carriage-return-text: #fafafa;
+  --color-prettylights-syntax-carriage-return-bg: #e45649;
+  --color-prettylights-syntax-string-regexp: #50a14f;
+  --color-prettylights-syntax-markup-list: #c18401;
+  --color-prettylights-syntax-markup-heading: #4078f2;
+  --color-prettylights-syntax-markup-italic: #383a42;
+  --color-prettylights-syntax-markup-bold: #383a42;
+  --color-prettylights-syntax-markup-deleted-text: #e45649;
+  --color-prettylights-syntax-markup-deleted-bg: #fde8e8;
+  --color-prettylights-syntax-markup-inserted-text: #50a14f;
+  --color-prettylights-syntax-markup-inserted-bg: #e8f5e8;
+  --color-prettylights-syntax-markup-changed-text: #986801;
+  --color-prettylights-syntax-markup-changed-bg: #fef3e0;
+  --color-prettylights-syntax-markup-ignored-text: #e5e5e5;
+  --color-prettylights-syntax-markup-ignored-bg: #4078f2;
+  --color-prettylights-syntax-meta-diff-range: #a626a4;
+  --color-prettylights-syntax-brackethighlighter-angle: #a0a1a7;
+  --color-prettylights-syntax-sublimelinter-gutter-mark: #d0d0d0;
+  --color-prettylights-syntax-constant-other-reference-link: #0184bc;
+  --color-btn-text: #2f3338;
+  --color-btn-bg: #fafafa;
+  --color-btn-border: rgba(47, 51, 56, 0.15);
+  --color-btn-shadow: 0 1px 0 rgba(47, 51, 56, 0.04);
+  --color-btn-inset-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
+  --color-btn-hover-bg: #f0f0f0;
+  --color-btn-hover-border: rgba(47, 51, 56, 0.15);
+  --color-btn-active-bg: #e8e8e8;
+  --color-btn-active-border: rgba(47, 51, 56, 0.15);
+  --color-btn-selected-bg: #e8e8e8;
   --color-btn-primary-text: #fff;
-  --color-btn-primary-bg: #84a59d; /* --tertiary */
-  --color-btn-primary-border: rgb(43, 43, 43 / 15%); /* --dark */
-  --color-btn-primary-shadow: 0 1px 0 rgb(31 35 40 / 10%);
-  --color-btn-primary-inset-shadow: inset 0 1px 0 rgb(255 255 255 / 3%);
-  --color-btn-primary-hover-bg: #284b63; /* --secondary */
-  --color-btn-primary-hover-border: rgb(43, 43, 43 / 15%); /* --dark */
-  --color-btn-primary-selected-bg: #284b63; /* --secondary */
-  --color-btn-primary-selected-shadow: inset 0 1px 0 rgb(0 45 17 / 20%);
-  --color-btn-primary-disabled-text: rgb(255 255 255 / 80%);
-  --color-btn-primary-disabled-bg: #94d3a2;
-  --color-btn-primary-disabled-border: rgb(31 35 40 / 15%);
-  --color-action-list-item-default-hover-bg: rgb(208 215 222 / 32%);
-  --color-segmented-control-bg: #eaeef2;
-  --color-segmented-control-button-bg: #fff;
-  --color-segmented-control-button-selected-border: #8c959f;
-  --color-fg-default: #2b2b2b; /* --dark */
-  --color-fg-muted: #4e4e4e; /* --darkgray */
-  --color-fg-subtle: #4e4e4e; /* --darkgray */
-  --color-canvas-default: #fff;
-  --color-canvas-overlay: #fff;
-  --color-canvas-inset: #f6f8fa;
-  --color-canvas-subtle: #f6f8fa;
-  --color-border-default: #d0d7de;
-  --color-border-muted: hsl(210deg 18% 87% / 100%);
-  --color-neutral-muted: rgb(175 184 193 / 20%);
-  --color-accent-fg: #0969da;
-  --color-accent-emphasis: #0969da;
-  --color-accent-muted: rgb(84 174 255 / 40%);
-  --color-accent-subtle: #ddf4ff;
-  --color-success-fg: #1a7f37;
-  --color-attention-fg: #9a6700;
-  --color-attention-muted: rgb(212 167 44 / 40%);
-  --color-attention-subtle: #fff8c5;
-  --color-danger-fg: #d1242f;
-  --color-danger-muted: rgb(255 129 130 / 40%);
-  --color-danger-subtle: #ffebe9;
-  --color-primer-shadow-inset: inset 0 1px 0 rgb(208 215 222 / 20%);
-  --color-scale-gray-1: #eaeef2;
-  --color-scale-blue-1: #b6e3ff;
+  --color-btn-primary-bg: #0184bc;
+  --color-btn-primary-border: rgba(47, 51, 56, 0.15);
+  --color-btn-primary-shadow: 0 1px 0 rgba(47, 51, 56, 0.1);
+  --color-btn-primary-inset-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.03);
+  --color-btn-primary-hover-bg: #a626a4;
+  --color-btn-primary-hover-border: rgba(47, 51, 56, 0.15);
+  --color-btn-primary-selected-bg: #a626a4;
+  --color-btn-primary-selected-shadow: inset 0 1px 0 rgba(0, 0, 0, 0.1);
+  --color-btn-primary-disabled-text: rgba(255, 255, 255, 0.8);
+  --color-btn-primary-disabled-bg: rgba(1, 132, 188, 0.6);
+  --color-btn-primary-disabled-border: rgba(47, 51, 56, 0.15);
+  --color-action-list-item-default-hover-bg: rgba(216, 222, 233, 0.32);
+  --color-segmented-control-bg: #e5e5e5;
+  --color-segmented-control-button-bg: #fafafa;
+  --color-segmented-control-button-selected-border: #4b535e;
+  --color-fg-default: #2f3338;
+  --color-fg-muted: #4b535e;
+  --color-fg-subtle: #4b535e;
+  --color-canvas-default: #fafafa;
+  --color-canvas-overlay: #ffffff;
+  --color-canvas-inset: #f5f5f5;
+  --color-canvas-subtle: #f5f5f5;
+  --color-border-default: #d0d0d0;
+  --color-border-muted: #e0e0e0;
+  --color-neutral-muted: rgba(75, 83, 94, 0.2);
+  --color-accent-fg: #4078f2;
+  --color-accent-emphasis: #4078f2;
+  --color-accent-muted: rgba(64, 120, 242, 0.4);
+  --color-accent-subtle: rgba(64, 120, 242, 0.1);
+  --color-success-fg: #50a14f;
+  --color-attention-fg: #c18401;
+  --color-attention-muted: rgba(193, 132, 1, 0.4);
+  --color-attention-subtle: rgba(193, 132, 1, 0.15);
+  --color-danger-fg: #e45649;
+  --color-danger-muted: rgba(228, 86, 73, 0.4);
+  --color-danger-subtle: rgba(228, 86, 73, 0.1);
+  --color-primer-shadow-inset: inset 0 1px 0 rgba(216, 222, 233, 0.2);
+  --color-scale-gray-1: #e5e5e5;
+  --color-scale-blue-1: #d6ecff;
 
   /*! Extensions from @primer/css/alerts/flash.scss */
   --color-social-reaction-bg-hover: var(--color-scale-gray-1);
