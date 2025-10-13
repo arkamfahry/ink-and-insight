@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://arkamfahry.github.io/ink-and-insight",
+    baseUrl: "https://arkamfahry.is-a.dev",
     ignorePatterns: ["private", "templates", "whiteboards", ".obsidian"],
     defaultDateType: "created",
     theme: {

@@ -13,7 +13,7 @@ export const sharedPageComponents: SharedLayout = {
         repoId: "R_kgDOMCDKww",
         category: "Q&A",
         categoryId: "DIC_kwDOMCDKw84CjuoI",
-        themeUrl: "https://arkamfahry.github.io/ink-and-insight/static/giscus",
+        themeUrl: "https://arkamfahry.is-a.dev/static/giscus",
         lightTheme: "light",
         darkTheme: "dark",
         mapping: "pathname",
@@ -22,7 +22,7 @@ export const sharedPageComponents: SharedLayout = {
   ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/arkamfahry/ink-and-insight",
+      GitHub: "https://arkamfahry.is-a.dev",
       Discord: "https://discord.gg/HVCwQkyMMg",
     },
   }),
