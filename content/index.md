@@ -9,7 +9,7 @@ updated: 2025-10-11T19:08
 
 Software is too hard. Computers feel like magic, so why shouldn’t software? I believe software should also feel like magic. 
 
-You can find me on [GitHub](https://github.com/arkamfahry) or chat with me on [Discord](https://discord.gg/HVCwQkyMMg). Together, let’s push the boundaries of what we can learn and create.
+You can find me on [GitHub](https://github.com/arkamfahry) or chat with me on [Discord](https://discord.gg/2Gd7gMvTk2). Together, let’s push the boundaries of what we can learn and create.
 
 ---
 

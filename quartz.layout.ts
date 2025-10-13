@@ -23,7 +23,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/arkamfahry/ink-and-insight",
-      Discord: "https://discord.gg/HVCwQkyMMg",
+      Discord: "https://discord.gg/2Gd7gMvTk2",
     },
   }),
 }
