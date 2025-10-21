@@ -5,9 +5,10 @@ aliases:
 tags:
   - note
   - jj
+  - git
 draft: false
 created: 2025-10-12T16:27
-updated: 2025-10-12T17:44
+updated: 2025-10-21T20:10
 ---
 A minimal guide for using JJ (Jujutsu) with Git repositories in colocated mode.
 
