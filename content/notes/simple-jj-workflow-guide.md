@@ -3,9 +3,8 @@ title: Simple JJ workflow guide
 description:
 aliases:
 tags:
-  - Note
-  - Git
-  - JJ
+  - note
+  - jj
 draft: false
 created: 2025-10-12T16:27
 updated: 2025-10-12T17:44

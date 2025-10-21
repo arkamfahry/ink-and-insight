@@ -1,7 +1,7 @@
 ---
 title: Welcome To Ink & Insight
 tags:
-  - Home
+  - home
 created: 2024-12-16T17:46
 updated: 2025-10-11T19:08
 ---

@@ -3,8 +3,8 @@ title: Simple Git workflow guide
 description:
 aliases:
 tags:
-  - Note
-  - Git
+  - note
+  - git
 draft: false
 created: 2025-10-12T16:21
 updated: 2025-10-12T16:38

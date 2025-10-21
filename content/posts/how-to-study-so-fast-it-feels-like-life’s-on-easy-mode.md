@@ -1,9 +1,9 @@
 ---
 title: How to study so fast it feels like life’s on easy mode
-description: 
-aliases: 
+description:
+aliases:
 tags:
-  - Post
+  - post
 draft: false
 created: 2025-02-08T11:03
 updated: 2025-07-27T18:44

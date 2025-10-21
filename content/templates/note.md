@@ -3,7 +3,7 @@ title: "{{title}}"
 description: 
 aliases: 
 tags:
-  - Note
+  - note
 draft: true
 created: 
 updated:

@@ -3,7 +3,7 @@ title: "{{title}}"
 description: 
 aliases: 
 tags:
-  - Fragment
+  - fragment
 draft: true
 created: 
 updated:

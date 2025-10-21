@@ -3,7 +3,7 @@ title: "{{title}}"
 description: 
 aliases: 
 tags:
-  - Novel
+  - novel
 draft: true
 created: 
 updated:
