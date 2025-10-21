@@ -19,6 +19,7 @@ export const sharedPageComponents: SharedLayout = {
         mapping: "pathname",
       },
     }),
+    Component.MobileOnly(Component.RecentNotes()),
   ],
   footer: Component.Footer({
     links: {
@@ -53,6 +54,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
+    Component.DesktopOnly(Component.RecentNotes()),
   ],
   right: [
     Component.Graph(),
@@ -77,6 +79,7 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
+    Component.DesktopOnly(Component.RecentNotes()),
   ],
   right: [],
 }
