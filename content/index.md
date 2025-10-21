@@ -3,7 +3,7 @@ title: Welcome To Ink & Insight
 tags:
   - home
 created: 2024-12-16T17:46
-updated: 2025-10-11T19:08
+updated: 2025-10-21T19:39
 ---
 ---
 
@@ -13,4 +13,4 @@ You can find me on [GitHub](https://github.com/arkamfahry) or chat with me on [D
 
 ---
 
-Made By [@ArkamFahri](https://github.com/arkamfahry)
+Made With 💖 By [@ArkamFahri](https://github.com/arkamfahry)
