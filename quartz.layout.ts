@@ -6,6 +6,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
+    Component.MobileOnly(Component.RecentNotes()),
     Component.Comments({
       provider: "giscus",
       options: {
@@ -19,7 +20,6 @@ export const sharedPageComponents: SharedLayout = {
         mapping: "pathname",
       },
     }),
-    Component.MobileOnly(Component.RecentNotes()),
   ],
   footer: Component.Footer({
     links: {
