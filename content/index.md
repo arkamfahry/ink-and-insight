@@ -3,8 +3,12 @@ title: Welcome To Ink & Insight
 tags:
   - home
 created: 2024-12-16T17:46
-updated: 2025-10-21T19:39
+updated: 2025-10-26T12:39
 ---
+---
+
+![[home.webp]]
+
 ---
 
 Software is too hard. Computers feel like magic, so why shouldn’t software? I believe software should also feel like magic. 
