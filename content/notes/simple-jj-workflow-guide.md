@@ -1,5 +1,5 @@
 ---
-title: Simple JJ workflow guide
+title: Simple JJ Workflow Guide
 description:
 aliases:
 tags:
@@ -8,11 +8,11 @@ tags:
   - git
 draft: false
 created: 2025-10-12T16:27
-updated: 2025-10-21T20:10
+updated: 2025-12-31T17:24
 ---
 A minimal guide for using JJ (Jujutsu) with Git repositories in colocated mode.
 
-## What is JJ?
+## What Is JJ?
 
 JJ is a Git-compatible version control tool that simplifies common workflows. You can use it on existing Git repos and still interact with GitHub/GitLab normally.
 
@@ -125,7 +125,7 @@ That's it! One command instead of merge/rebase complexity.
 
 ---
 
-## Working with Multiple Changes (Stacked Work)
+## Working with multiple Changes (Stacked Work)
 
 JJ makes it easy to work on multiple things at once:
 
@@ -207,7 +207,7 @@ jj git push --branch feature/my-feature
 
 ---
 
-## After PR is Merged
+## After PR Is Merged
 
 ```shell
 # Fetch latest (includes your merged work)
@@ -269,7 +269,7 @@ jj op undo
 
 ## Understanding JJ Concepts
 
-### Changes vs Commits
+### Changes Vs Commits
 
 - **Git:** You create commits
 - **JJ:** You create changes (mutable until pushed)

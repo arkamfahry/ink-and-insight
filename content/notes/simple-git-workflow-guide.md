@@ -1,5 +1,5 @@
 ---
-title: Simple Git workflow guide
+title: Simple Git Workflow Guide
 description:
 aliases:
 tags:
@@ -7,7 +7,7 @@ tags:
   - git
 draft: false
 created: 2025-10-12T16:21
-updated: 2025-10-12T16:38
+updated: 2025-12-31T17:24
 ---
 A minimal guide covering the essential Git commands for daily team development.
 
@@ -157,7 +157,7 @@ git push
 
 ---
 
-## After PR is Merged
+## After PR Is Merged
 
 ```bash
 # Switch to main
@@ -226,7 +226,7 @@ hotfix/security-patch
 
 ## Quick Reference
 
-### Starting work:
+### Starting Work:
 
 ```bash
 git checkout main
@@ -234,7 +234,7 @@ git pull origin main
 git checkout -b feature/my-feature
 ```
 
-### During work:
+### During Work:
 
 ```bash
 git add .
@@ -242,7 +242,7 @@ git commit -m "Description"
 git push
 ```
 
-### Keep in sync:
+### Keep in Sync:
 
 ```bash
 git pull origin main  # merge approach
@@ -250,7 +250,7 @@ git pull origin main  # merge approach
 git fetch origin && git rebase origin/main  # rebase approach
 ```
 
-### Finish work:
+### Finish Work:
 
 ```bash
 git push
