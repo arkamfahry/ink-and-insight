@@ -1,13 +1,13 @@
 ---
-title: install-winget-on-windows-11-ltsc
-description: Install WinGet on Windows 11 LTSC
+title: Install WinGet on Windows 11 LTSC
+description:
 aliases:
 tags:
   - note
   - winget
 draft: false
 created: 2025-12-31T16:30
-updated: 2025-12-31T16:57
+updated: 2025-12-31T17:02
 ---
 This guide describes several methods to install WinGet (Windows Package Manager) on Windows 11 LTSC.
 
