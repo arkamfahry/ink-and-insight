@@ -7,12 +7,8 @@ tags:
   - winget
 draft: false
 created: 2025-12-31T16:30
-updated: 2025-12-31T17:16
+updated: 2026-01-01T13:54
 ---
-Here is a revised version of your guide with improved formatting for both Obsidian and online publishing, along with a recommendation on headline structure.
-
-### A Guide to Installing WinGet on Windows 11 LTSC
-
 This guide provides step-by-step instructions for installing the Windows Package Manager (WinGet) on Windows 11 LTSC.
 
 *** 
