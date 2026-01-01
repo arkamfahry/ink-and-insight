@@ -7,7 +7,7 @@ tags:
   - winget
 draft: false
 created: 2025-12-31T16:30
-updated: 2026-01-01T13:54
+updated: 2026-01-01T14:10
 ---
 This guide provides step-by-step instructions for installing the Windows Package Manager (WinGet) on Windows 11 LTSC.
 
@@ -61,7 +61,7 @@ Add-AppxPackage Microsoft.WindowsAppRuntime.1.8_*_x64.appx
 Finally, install the main WinGet package by executing the following command in the same PowerShell window:
 
 ```powershell 
-Add-AppxProvisionedPackage -Online -PackagePath Microsoft.DesktopAppInstaller.Msixbundle -LicensePath *_License1.xml 
+Add-AppxProvisionedPackage -Online -PackagePath Microsoft.DesktopAppInstaller_*.msixbundle -LicensePath *_License1.xml 
 ``` 
 
 #### 5. Verify the Installation
