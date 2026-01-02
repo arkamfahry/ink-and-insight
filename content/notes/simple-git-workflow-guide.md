@@ -7,7 +7,7 @@ tags:
   - git
 draft: false
 created: 2025-10-12T16:21
-updated: 2025-12-31T17:24
+updated: 2026-01-02T14:02
 ---
 A minimal guide covering the essential Git commands for daily team development.
 
@@ -18,6 +18,15 @@ A minimal guide covering the essential Git commands for daily team development.
 git config --global user.name "Your Name"
 git config --global user.email "your.email@company.com"
 
+# Verify your config
+git config --list
+```
+
+---
+
+## Clone a Repository
+
+```shell
 # Clone the repository
 git clone https://github.com/company/project.git
 cd project
