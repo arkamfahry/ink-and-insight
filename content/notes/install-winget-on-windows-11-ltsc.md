@@ -5,13 +5,14 @@ aliases:
 tags:
   - note
   - winget
+  - windows-11-ltsc
 draft: false
 created: 2025-12-31T16:30
-updated: 2026-01-02T14:00
+updated: 2026-01-01T14:36
 ---
 This guide provides step-by-step instructions for installing the Windows Package Manager (WinGet) on Windows 11 LTSC.
 
-*** 
+---
 
 ### Requirements
 
@@ -21,9 +22,9 @@ Before you begin, ensure you have the following:
 *   **Permissions:** Administrator privileges
 *   **Connectivity:** An active internet connection
 
-*** 
+---
 
-### Manual Installation from the Microsoft `winget-cli` Repository
+### Manual Installation from the Microsoft `winget-cli`
 
 This method involves directly downloading and installing the necessary files from the official WinGet repository on GitHub.
 
@@ -32,7 +33,7 @@ This method involves directly downloading and installing the necessary files fro
 Navigate to the [winget-cli GitHub releases page](https://github.com/microsoft/winget-cli/releases) and download the following files:
 
 *   `DesktopAppInstaller_Dependencies.zip`
-*   A file ending in `_License1.xml`
+*   A file ending in `*_License1.xml`
 *   `Microsoft.DesktopAppInstaller_*.msixbundle`
 
 #### 2. Extract and Organize Dependencies
@@ -66,7 +67,7 @@ Add-AppxProvisionedPackage -Online -PackagePath Microsoft.DesktopAppInstaller_*.
 
 #### 5. Verify the Installation
 
-To confirm that WinGet has been installed correctly, open a **new** Command Prompt or PowerShell window and run the following command:
+To confirm that WinGet has been installed correctly, open a new Command Prompt or PowerShell window and run the following command:
 
 ```powershell
 winget --version

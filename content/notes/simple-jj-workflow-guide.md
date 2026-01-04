@@ -8,7 +8,7 @@ tags:
   - git
 draft: false
 created: 2025-10-12T16:27
-updated: 2025-12-31T17:24
+updated: 2026-01-03T11:08
 ---
 A minimal guide for using JJ (Jujutsu) with Git repositories in colocated mode.
 
