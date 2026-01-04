@@ -7,7 +7,7 @@ tags:
   - git
 draft: false
 created: 2025-10-12T16:21
-updated: 2026-01-02T14:02
+updated: 2026-01-04T07:28
 ---
 A minimal guide covering the essential Git commands for daily team development.
 
@@ -17,6 +17,9 @@ A minimal guide covering the essential Git commands for daily team development.
 # Configure your identity
 git config --global user.name "Your Name"
 git config --global user.email "your.email@company.com"
+
+# Configure default branch to main
+git config --global init.defaultBranch main
 
 # Verify your config
 git config --list
