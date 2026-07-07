@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Ink & Insight
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -234,8 +234,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/arkamfahry/ink-and-insight
+        Discord Community: https://discord.gg/2Gd7gMvTk2
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
