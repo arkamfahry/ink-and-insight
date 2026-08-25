@@ -5,11 +5,11 @@ aliases:
 tags:
   - note
   - ai
-draft: true
+draft: false
 created: 2026-08-21T17:14
-updated: 2026-08-23T04:44
+updated: 2026-08-25T17:20
 ---
-This is a list of inference providers 
+A list of inference providers with good value for money token pricing and some inference provider which provide some cool models like dLLMs
 
 | Name                           | Pricing / Tier                                                                                                                                                      | Details                                                                                                                                                                               |
 | :----------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
