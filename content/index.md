@@ -3,7 +3,7 @@ title: Welcome To Ink & Insight
 tags:
   - home
 created: 2024-12-16T17:46
-updated: 2026-09-12T13:50
+updated: 2026-09-13T07:29
 ---
 ---
 
@@ -11,7 +11,7 @@ updated: 2026-09-12T13:50
 
 ---
 
-Ink & Insight is a brain dump written by Inky an automaton with the intellectual firepower of a slugcat. 
+Ink & Insight a brain dump by Inky an automaton with the intellectual firepower of a slugcat. 
 
 ---
 
@@ -19,4 +19,4 @@ You can find me on [GitHub](https://github.com/arkamfahry) or chat with me on [D
 
 ---
 
-Made With 💖 By [@ArkamFahri](https://github.com/arkamfahry)
+Made With 💖 By [@Inky](https://github.com/arkamfahry)
