@@ -7,9 +7,9 @@ tags:
   - ai
 draft: false
 created: 2026-08-21T17:14
-updated: 2026-08-25T17:20
+updated: 2026-09-12T14:30
 ---
-A list of inference providers with good value for money token pricing and some inference provider which provide some cool models like dLLMs
+A list of inference providers with good value for money token pricing and some inference provider which provide cheap models and cool models like dLLMs
 
 | Name                           | Pricing / Tier                                                                                                                                                      | Details                                                                                                                                                                               |
 | :----------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
